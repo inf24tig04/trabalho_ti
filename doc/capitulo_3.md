@@ -134,50 +134,50 @@ A validação do XML foi feita através do site: [W3Schools](https://www.w3schoo
   | Requisitos | Exemplo de Uso |
   | :---: | :---: |
   | Download do XML |    https://github.com/inf24tig04/trabalho_ti/blob/48d10ca3666fffd2d203c4b2644a4e31d35867cb/src/estatisticas.html#L81-L84  |
-  | Download do XSD |    https://github.com/inf2425tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/estatisticas.html#L87-L90  |
-  | Tabela |     https://github.com/inf2425tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/curiosidades.html#L54-L89 |
-  | Lista Ordenada | https://github.com/inf2425tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/portugal.html#L168-L179 |
-  | Lista Desordenada | https://github.com/inf2425tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/portugal.html#L118-L123  |
-  | Lista de Descrição |    https://github.com/inf2425tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/curiosidades.html#L234-L272  |
-  | Lista Alinhada |    https://github.com/inf2425tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/curiosidades.html#L99-L139 |
-  | Marcação de Texto | https://github.com/inf2425tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L53-L54 |
-  | Imagem |   https://github.com/inf2425tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L74   |
-  | Figure |   https://github.com/inf2425tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L73-L76 |
-  | Figure Caption      |  https://github.com/inf2425tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L75  |
-  | Internal Link |   https://github.com/inf2425tig04/trabalho_ti/blob/9640d596084358c7141bce62f2b75f1577fb8bbb/src/curiosidades.html#L24   |
-  | External Link |   https://github.com/inf2425tig04/trabalho_ti/blob/9640d596084358c7141bce62f2b75f1577fb8bbb/src/curiosidades.html#L25  |
-  | Form |     https://github.com/inf2425tig04/trabalho_ti/blob/9640d596084358c7141bce62f2b75f1577fb8bbb/src/curiosidades.html#L388-L414  |
+  | Download do XSD |    https://github.com/inf24tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/estatisticas.html#L87-L90  |
+  | Tabela |     https://github.com/inf24tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/curiosidades.html#L54-L89 |
+  | Lista Ordenada | https://github.com/inf24tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/portugal.html#L168-L179 |
+  | Lista Desordenada | https://github.com/inf24tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/portugal.html#L118-L123  |
+  | Lista de Descrição |    https://github.com/inf24tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/curiosidades.html#L234-L272  |
+  | Lista Alinhada |    https://github.com/inf24tig04/trabalho_ti/blob/7f4150c8e1002bb014fe3a18a1843c8e0c62ed2f/src/curiosidades.html#L99-L139 |
+  | Marcação de Texto | https://github.com/inf24tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L53-L54 |
+  | Imagem |   https://github.com/inf24tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L74   |
+  | Figure |   https://github.com/inf24tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L73-L76 |
+  | Figure Caption      |  https://github.com/inf24tig04/trabalho_ti/blob/3009672b470f7980ca1f1f719cb8853c4b1cbda4/src/portugal.html#L75  |
+  | Internal Link |   https://github.com/inf24tig04/trabalho_ti/blob/9640d596084358c7141bce62f2b75f1577fb8bbb/src/curiosidades.html#L24   |
+  | External Link |   https://github.com/inf24tig04/trabalho_ti/blob/9640d596084358c7141bce62f2b75f1577fb8bbb/src/curiosidades.html#L25  |
+  | Form |     https://github.com/inf24tig04/trabalho_ti/blob/9640d596084358c7141bce62f2b75f1577fb8bbb/src/curiosidades.html#L388-L414  |
 
   CSS Minimum requirements (usage of/change of)
   | Requirement | Usage Example |
   | :---: | :---: |
-  | Type selector |    https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L241-L247   |
-  | Id selector |     https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L292-L299  |
-  | Class Selector |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L73-L81    |
-  | Pseudo-class Selector |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L117-L121    |
-  | Attribute Selector |    https://github.com/inf2425tig04/trabalho_ti/blob/0e1d7c7d52bffa6a431ba8684b6fa80cbaeda2f4/src/estilo.css#L437-L448   |
-  | Pseudo-element Selector |  https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L19-L23    |
-  | Combinator Selector |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L66-L71    |
-  | Change Highlight style |   https://github.com/inf2425tig04/trabalho_ti/blob/359da53eaddbc5bb25443557defac027d4aebef7/src/estilo.css#L1127-L1130    |
-  | Image insertion |   https://github.com/inf2425tig04/trabalho_ti/blob/c1f4d03b07fdb4709b1078e791ba029a3d17a88f/src/estilo.css#L676-L689    |
-  | Hide an element |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L589-L591    |
-  | Text style |    https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L250-L255   |
-  | Font style |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L230-L232    |
-  | Background style |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L28    |
-  | float/position style |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L901    https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L45    |
-  | List style |    https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L88-L89   |
-  | Box element style |   https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L95-L103    |
-  | table style |    https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L302-L311   |
-  | Responsibility style 2 screen sizes |    https://github.com/inf2425tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L800-L857   |
+  | Type selector |    https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L241-L247   |
+  | Id selector |     https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L292-L299  |
+  | Class Selector |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L73-L81    |
+  | Pseudo-class Selector |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L117-L121    |
+  | Attribute Selector |    https://github.com/inf24tig04/trabalho_ti/blob/0e1d7c7d52bffa6a431ba8684b6fa80cbaeda2f4/src/estilo.css#L437-L448   |
+  | Pseudo-element Selector |  https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L19-L23    |
+  | Combinator Selector |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L66-L71    |
+  | Change Highlight style |   https://github.com/inf24tig04/trabalho_ti/blob/359da53eaddbc5bb25443557defac027d4aebef7/src/estilo.css#L1127-L1130    |
+  | Image insertion |   https://github.com/inf24tig04/trabalho_ti/blob/c1f4d03b07fdb4709b1078e791ba029a3d17a88f/src/estilo.css#L676-L689    |
+  | Hide an element |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L589-L591    |
+  | Text style |    https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L250-L255   |
+  | Font style |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L230-L232    |
+  | Background style |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L28    |
+  | float/position style |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L901    https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L45    |
+  | List style |    https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L88-L89   |
+  | Box element style |   https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L95-L103    |
+  | table style |    https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L302-L311   |
+  | Responsibility style 2 screen sizes |    https://github.com/inf24tig04/trabalho_ti/blob/80a5eb902945a31b9f43cf2cb2b04b97cae5a866/src/estilo.css#L800-L857   |
   ## Requisitos Extra
    | Requirement | Usage Example |
   | :---: | :---: |
-  | Video Element |  https://github.com/inf2425tig04/trabalho_ti/blob/2f0aa1fa1c3fedfc18a98ae7a0161a0f7f48ab32/src/curiosidades.html#L372-L380 |
-  | Transition|  https://github.com/inf2425tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/estilo.css#L141-L151 |
-  | Transform |https://github.com/inf2425tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/estilo.css#L368-L376
-  | Animation | https://github.com/inf2425tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/estilo.css#L657-L660  |
-  | Tabela com Dados do XML |  https://github.com/inf2425tig04/trabalho_ti/blob/6e34588c917d6c3474a256ca135a8bcac41a9435/src/estatisticas.html#L99-L194 |
-  | Slide Show | https://github.com/inf2425tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/curiosidades.html#L424-L449  |
+  | Video Element |  https://github.com/inf24tig04/trabalho_ti/blob/2f0aa1fa1c3fedfc18a98ae7a0161a0f7f48ab32/src/curiosidades.html#L372-L380 |
+  | Transition|  https://github.com/inf24tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/estilo.css#L141-L151 |
+  | Transform |https://github.com/inf24tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/estilo.css#L368-L376
+  | Animation | https://github.com/inf24tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/estilo.css#L657-L660  |
+  | Tabela com Dados do XML |  https://github.com/inf24tig04/trabalho_ti/blob/6e34588c917d6c3474a256ca135a8bcac41a9435/src/estatisticas.html#L99-L194 |
+  | Slide Show | https://github.com/inf24tig04/trabalho_ti/blob/30ce891dd03bb80e6820ab53d2a399a93feb3318/src/curiosidades.html#L424-L449  |
 
   ---
 [< Previous](capitulo_2.md) | [^ Main](https://github.com/inf2425tig04/trabalho_ti/) | [Next >](capitulo_4.md)
